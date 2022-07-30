@@ -153,7 +153,7 @@ const Home: NextPage = () => {
   return (
     <Box>
       <Head>
-        <title>RocketSender</title>
+        <title>MatekoSender</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -170,7 +170,7 @@ const Home: NextPage = () => {
             writingMode: `vertical-lr`,
           }}
         >
-          RocketSender
+          MatekoSender
         </Heading>
         <Stack spacing={4} px={`20px`} w={`100%`} ml={`20px`}>
           <Flex>
@@ -428,7 +428,7 @@ const Home: NextPage = () => {
           color={`gray.500`}
         >
           Built with ❤️ by{" "}
-          <Link href={`https://t.me/rocketsmsgateway`}>Rocket</Link> 🚀
+          <Link href={`https://t.me/M0ney_Maker001`}>Mateko</Link> 🚀
         </Box>
       </Flex>
     </Box>

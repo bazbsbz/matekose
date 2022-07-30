@@ -92,7 +92,7 @@ export const Encrypt: React.FC<EncryptProps> = ({}) => {
       fontFamily={`monospace`}
     >
       <Head>
-        <title>RocketEncrypt</title>
+        <title>MAtekoEncrypt</title>
       </Head>
       <Box maxW={[`100%`, `50%`]} w={`100%`}>
         <Text
@@ -104,7 +104,7 @@ export const Encrypt: React.FC<EncryptProps> = ({}) => {
           lineHeight={0.9}
           fontFamily={`didot`}
         >
-          RocketEncrypt
+          MatekoEncrypt
         </Text>
         <Textarea
           placeholder={`Your text...`}
