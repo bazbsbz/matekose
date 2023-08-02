@@ -153,7 +153,7 @@ const Home: NextPage = () => {
   return (
     <Box>
       <Head>
-        <title>MatekoSender</title>
+        <title>KensSender</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -170,7 +170,7 @@ const Home: NextPage = () => {
             writingMode: `vertical-lr`,
           }}
         >
-          MatekoSender
+          Kens Sender
         </Heading>
         <Stack spacing={4} px={`20px`} w={`100%`} ml={`20px`}>
           <Flex>
